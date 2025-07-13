@@ -5,4 +5,4 @@
       candidato: ciar conta, ver vagas e candidatar-se a vaga
     ##Tecnologias utlizadas
       FrontEnd: React,axios, javaScript,html e css
-      BackEnd: java mvc,spring boot
+      BackEnd: java mvc,spring boot, Jpa
